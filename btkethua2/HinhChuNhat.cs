@@ -26,10 +26,10 @@ namespace btkethua2
         }
         public void xuat()
         {
-            Console.WriteLine("Chieu dai HCN:" + this.dai);
-            Console.WriteLine("Chieu rong HCN:" + this.rong);
-            Console.WriteLine("Chu vi HCN:" + getChuVi());
-            Console.WriteLine("Dien tich HCN:" + getDienTich());
+            Console.WriteLine("Chieu dai HCN:" + this.dai + "cm");
+            Console.WriteLine("Chieu rong HCN:" + this.rong + "cm");
+            Console.WriteLine("Chu vi HCN:" + getChuVi()+ "cm");
+            Console.WriteLine("Dien tich HCN:" + getDienTich() + "cm2");
         }
     }
 }

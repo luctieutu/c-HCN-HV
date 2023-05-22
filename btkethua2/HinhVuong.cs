@@ -10,11 +10,13 @@ namespace btkethua2
     {
         public HinhVuong(double canh) : base(canh, canh)
         {
+            this.dai = canh;
         }
         public void xuat()
         {
-            Console.WriteLine("Chu vi hinh Vuong:"+getChuVi());
-            Console.WriteLine("Dien tich hinh vuong:" + getDienTich());
+            Console.WriteLine("Canh hinh vuong:" + this.dai + "cm");
+            Console.WriteLine("Chu vi hinh Vuong:"+getChuVi()+ "cm");
+            Console.WriteLine("Dien tich hinh vuong:" + getDienTich() + "cm2");
         }
     }
 }
