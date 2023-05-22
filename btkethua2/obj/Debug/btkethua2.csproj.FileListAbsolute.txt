@@ -1,0 +1,8 @@
+D:\K10A2_TT\c#\btkethua2\btkethua2\bin\Debug\btkethua2.exe.config
+D:\K10A2_TT\c#\btkethua2\btkethua2\bin\Debug\btkethua2.exe
+D:\K10A2_TT\c#\btkethua2\btkethua2\bin\Debug\btkethua2.pdb
+D:\K10A2_TT\c#\btkethua2\btkethua2\obj\Debug\btkethua2.csproj.AssemblyReference.cache
+D:\K10A2_TT\c#\btkethua2\btkethua2\obj\Debug\btkethua2.csproj.SuggestedBindingRedirects.cache
+D:\K10A2_TT\c#\btkethua2\btkethua2\obj\Debug\btkethua2.csproj.CoreCompileInputs.cache
+D:\K10A2_TT\c#\btkethua2\btkethua2\obj\Debug\btkethua2.exe
+D:\K10A2_TT\c#\btkethua2\btkethua2\obj\Debug\btkethua2.pdb
